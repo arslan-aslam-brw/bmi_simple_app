@@ -6,14 +6,13 @@ Hi, this is a Simple BMI Calculator App for Mobiles. I create this App using Flu
 
 ## App Demo
 
-![App Screenshot](https://github.com/arslanaslam5588/simple_ecomrece_app_1/blob/master/assets/eComrence_scrnshot.png) <br><br>
+![App Screenshot](https://github.com/arslanaslam5588/bmi_simple_app/blob/master/assets/Demo_App.gif) <br><br>
 
 
-    <img src="https://github.com/arslanaslam5588/simple_ecomrece_app_1/blob/master/assets/eComrence_scrnshot.png" alt="Right Image" style="float: right; margin-left: 20px; width: 380px;"> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
 
 ## Installation
 
-Just Download and Install by Clicking <a href = "https://github.com/arslanaslam5588/simple_ecomrece_app_1/raw/refs/heads/master/assets/App.apk" >Here</a>
+Just Download and Install by Clicking <a href = "https://github.com/arslanaslam5588/bmi_simple_app/raw/refs/heads/master/assets/App.apk" >Here</a>
 
 ## Skills
 Flutter, Dart, and Basic Programming
