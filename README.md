@@ -1,16 +1,24 @@
-# bmi_calc
 
-A new Flutter project.
+# Simple BMI App
 
-## Getting Started
+Hi, this is a Simple BMI Calculator App for Mobiles. I create this App using Flutter Framework. In this App I learn more about flutter, flutter widgets, UI Basics. This is basic and beginner level App for basic purpose of knowledge and code practing.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## App Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Screenshot](https://github.com/arslanaslam5588/simple_ecomrece_app_1/blob/master/assets/eComrence_scrnshot.png) <br><br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+    <img src="https://github.com/arslanaslam5588/simple_ecomrece_app_1/blob/master/assets/eComrence_scrnshot.png" alt="Right Image" style="float: right; margin-left: 20px; width: 380px;"> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
+
+## Installation
+
+Just Download and Install by Clicking <a href = "https://github.com/arslanaslam5588/simple_ecomrece_app_1/raw/refs/heads/master/assets/App.apk" >Here</a>
+
+## Skills
+Flutter, Dart, and Basic Programming
+
+## Support
+
+For support, email arslang5588@gmail.com or join me on <a href = "https://www.linkedin.com/in/arslanaslam77/" >Linkedin</a>.
+
